@@ -1,0 +1,8 @@
+langchain 
+langsmith
+pandas 
+langchain_experimental 
+matplotlib
+networkx
+wikipedia
+tiktoken
