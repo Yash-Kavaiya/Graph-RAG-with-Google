@@ -5,4 +5,6 @@ langchain_experimental
 matplotlib
 networkx
 wikipedia
-tiktoken
+langchain-community
+neo4j
+langchain-google-vertexai
